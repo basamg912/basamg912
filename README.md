@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basamg912)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](profile/stats.svg)
+![Top Langs](profile/top-langs.svg)
